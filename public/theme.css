@@ -1,0 +1,17 @@
+:root {
+   /* body */
+   --body-color: #333;
+   --body-background: #fff;
+
+   /* sidebar */
+   --wide: 16rem;
+   --thin: 3.5rem;
+   --sidebar-background: #434a54;
+   --sidebar-color: #ccd1d9;
+
+   /* scrollbar */
+   --scrollbar-color: #c5c5c5;
+   --scrollbar-bgcolor: #f6f6f6;
+
+   --fx: 0.3s ease-in-out;
+}
